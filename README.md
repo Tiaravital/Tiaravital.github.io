@@ -1,2 +1,2 @@
 # Tiaravital.github.io
-Definizione reository Github Pages
+Definizione repository Github Pages
